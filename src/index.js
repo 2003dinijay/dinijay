@@ -31,7 +31,7 @@ const data = {
   links: {
     github: "https://github.com/2003dinijay",
     linkedin: "https://www.linkedin.com/in/dinithi-nanayakkara",
-    portfolio: "https://dinithiNanayakkaraPortfolio",
+    portfolio: "https://my-portfolio-j4ps.vercel.app/",
     email: "dinijayo@gmail.com",
   },
 };
